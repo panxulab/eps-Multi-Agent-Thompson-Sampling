@@ -1,4 +1,4 @@
-# Finite-Time Frequentist Regret Bounds of Multi-Agent Thompson Sampling on Sparse Hypergraphs
+# Finite-Time Frequentist Regret Bounds of Multi-Agent Thompson Sampling on Sparse Hypergraphs (ϵ-MATS)
 
 This repo contains code for studying multi-agent multi-armed bandit (MAMAB) problem in our work Finite-Time Frequentist Regret Bounds of Multi-Agent Thompson Sampling on Sparse Hypergraphs. We evaluate our proposed ϵ-MATS on several benchmark MAMAB problem.
 
