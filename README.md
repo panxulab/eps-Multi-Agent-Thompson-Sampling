@@ -1,6 +1,7 @@
 # Finite-Time Frequentist Regret Bounds of Multi-Agent Thompson Sampling on Sparse Hypergraphs (ϵ-MATS)
 
- [Tianyuan Jin](https://tianyuanjin.github.io/) · [Hao-Lun Hsu](https://hlhsu.github.io/) · [William Chang](https://williamc.me/) · [Pan Xu](https://panxulab.github.io/)
+<h3 style="text-align: center;"> [Tianyuan Jin](https://tianyuanjin.github.io/) · [Hao-Lun Hsu](https://hlhsu.github.io/) · [William Chang](https://williamc.me/) · [Pan Xu](https://panxulab.github.io/)</h3>
+
 
 
 Official implementation of the paper "Finite-Time Frequentist Regret Bounds of Multi-Agent Thompson Sampling on Sparse Hypergraphs (ϵ-MATS)" which combines the MATS exploration with probability ε and greedy exploitation with probability 1 − ε.
