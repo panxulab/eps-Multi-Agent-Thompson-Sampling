@@ -43,12 +43,14 @@ python main.py --algo rd --env_name bernoulli --iter 2000 --seed 0 --n_agents 10
 python main.py --algo all --env_name poisson --iter 2000 --seed 0 --n_agents 20
 ```
 ## Citation
+```
 @inproceedings{Jin2024MATS,
   title={Finite-Time Frequentist Regret Bounds of Multi-Agent Thompson Sampling on Sparse Hypergraphs},
   author={Jin, Tianyuan and Hsu, Hao-Lun and Chang, William and Xu, Pan},
   booktitle={Annual AAAI Conference on Artificial Intelligence (AAAI)},
   year={2024}
 }
+```
 
 
 
