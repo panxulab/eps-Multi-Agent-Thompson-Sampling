@@ -48,6 +48,9 @@ python main.py --algo all --env_name poisson --iter 2000 --seed 0 --n_agents 20
   title={Finite-Time Frequentist Regret Bounds of Multi-Agent Thompson Sampling on Sparse Hypergraphs},
   author={Jin, Tianyuan and Hsu, Hao-Lun and Chang, William and Xu, Pan},
   booktitle={Annual AAAI Conference on Artificial Intelligence (AAAI)},
+  volume={38},
+  number={11},
+  pages={12956--12964},
   year={2024}
 }
 ```
